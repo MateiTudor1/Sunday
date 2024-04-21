@@ -13,58 +13,65 @@
         </div>
 
         <div class="project">
-            <div class="a-project">
-                <div class="box-color">
-                    <img src="../images/overlay.png">
-                    <span>PT</span>
+            <h3>Projects
+                <span>
+                    (18)
+                </span>
+            </h3>
+            <div class="projects">
+                <div class="a-project">
+                    <div class="box-color">
+                        <img src="../images/overlay.png">
+                        <span>PT</span>
+                    </div>
+
+                    <h6>Development</h6>
                 </div>
 
-                <h6>Development</h6>
-            </div>
+                <div class="a-project">
+                    <div class="box-color">
+                        <img src="../images/overlay.png">
+                        <span>PT</span>
+                    </div>
 
-            <div class="a-project">
-                <div class="box-color">
-                    <img src="../images/overlay.png">
-                    <span>PT</span>
+                    <h6>Design</h6>
                 </div>
 
-                <h6>Design</h6>
-            </div>
+                <div class="a-project">
+                    <div class="box-color">
+                        <img src="../images/overlay.png">
+                        <span>PT</span>
+                    </div>
 
-            <div class="a-project">
-                <div class="box-color">
-                    <img src="../images/overlay.png">
-                    <span>PT</span>
+                    <h6>Testing</h6>
                 </div>
 
-                <h6>Testing</h6>
-            </div>
+                <div class="a-project">
+                    <div class="box-color">
+                        <img src="../images/overlay.png">
+                        <span>PT</span>
+                    </div>
 
-            <div class="a-project">
-                <div class="box-color">
-                    <img src="../images/overlay.png">
-                    <span>PT</span>
+                    <h6>Medium Draft</h6>
                 </div>
 
-                <h6>Medium Draft</h6>
-            </div>
+                <div class="a-project">
+                    <div class="box-color">
+                        <img src="../images/overlay.png">
+                        <span>PT</span>
+                    </div>
 
-            <div class="a-project">
-                <div class="box-color">
-                    <img src="../images/overlay.png">
-                    <span>PT</span>
+                    <h6>Landing Page</h6>
                 </div>
 
-                <h6>Landing Page</h6>
-            </div>
+                <div class="a-project">
+                    <div class="box-color">
+                        <img src="../images/plus.png">
+                        <span>PT</span>
+                    </div>
 
-            <div class="a-project">
-                <div class="box-color">
-                    <img src="../images/plus.png">
-                    <span>PT</span>
+                    <h6>Add Project</h6>
                 </div>
-
-                <h6>Add Project</h6>
             </div>
         </div>
     </div>

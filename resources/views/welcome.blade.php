@@ -6,8 +6,11 @@
 
 
         <link href="{{asset('resources/css/app.css')}}" rel="stylesheet">
+        <link href="{{asset('public/css/styles.css')}}" rel="stylesheet">
         <title>Laravel</title>
         @vite('resources/js/app.js')
+        @vite('public/css/styles.css')
+        @vite('resources/css/app.css')
 
     </head>
     <body class="antialiased">
