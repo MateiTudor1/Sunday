@@ -5,8 +5,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-        <link href="{{asset('resources/css/app.css')}}" rel="stylesheet">
-        <link href="{{asset('public/css/styles.css')}}" rel="stylesheet">
+        <link href="{{asset('/css/app.css')}}" rel="stylesheet">
+        <link href="{{asset('/css/styles.css')}}" rel="stylesheet">
         <title>Laravel</title>
         @vite('resources/js/app.js')
         @vite('public/css/styles.css')
@@ -20,7 +20,7 @@
         </app-component>
     </div>
 
-    <script src="{{asset('resources/js/app.js')}}">
+    <script src="{{asset('/js/app.js')}}">
 
     </script>
     </body>

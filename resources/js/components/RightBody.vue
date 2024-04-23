@@ -61,8 +61,37 @@
 <script>
 
 export default {
+    data() {
+        return {
+            todayTask: [],
+            upcoming: [],
+            newTask: "",
+        };
+    },
 
+    created() {
+        this.fetchTodayTasks();
+        this.fetchUpcoming();
+    },
 
+    methods:
+        {
+            //UPCOMING TASK
+
+            fetchUpcoming() {
+                fetch('/api/upcoming')
+                    .then(res => res.json())
+                    .then(({data}) => {
+                        this.upcoming = data;
+                        console.log(data);
+                    })
+                    .catch((err) => console.log(err));
+            },
+
+            fetchTodayTasks() {
+
+            },
+            }
 }
 </script>
 
