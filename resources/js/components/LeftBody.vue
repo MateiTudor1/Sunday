@@ -15,7 +15,7 @@
         <div class="project">
             <h3>Projects
                 <span>
-                    (18)
+                    (5)
                 </span>
             </h3>
             <div class="projects">

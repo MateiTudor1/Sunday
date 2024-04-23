@@ -40,6 +40,11 @@ Route::delete('/upcoming/{taskId}',function ($taskId)
 
 //Today task
 
+Route::get('/today', function (){
+    $todayTask=\App\Models\Today::all();
+    return \App\Http\Resources\TodayTaskResource::collection($todayTask);
+});
+
 Route::post('/today',function (Request $request)
 {
     return \App\Models\Today::create([
