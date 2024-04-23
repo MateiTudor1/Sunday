@@ -7,7 +7,7 @@
         </div>
 
         <p>
-            Testam functia
+            Scopul proiectului este de a observa taskurile pentru echipa de development
         </p>
 
         <div class="tasks">

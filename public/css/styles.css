@@ -114,7 +114,7 @@ body {
             font-family: "MyriadProRegular";
             font-size: 17px;
             color: var(--white);
-            font-size: 900; }
+            font-size: 20px; }
           .mcontainer #body #left .project .projects .a-project h6 {
             margin-top: 16px;
             font-family: 'Open Sans', sans-serif;
@@ -132,7 +132,7 @@ body {
               height: 100%; }
             .mcontainer #body #left .project .projects .a-project div.box-color:hover {
               border: 4px solid var(--custompink);
-              transition: border 400ms eas; }
+              transition: border 400ms ease; }
           .mcontainer #body #left .project .projects .a-project .customwidth, .mcontainer #body #left .project .projects .a-project:nth-child(1) div.box-color, .mcontainer #body #left .project .projects .a-project:nth-child(2) div.box-color, .mcontainer #body #left .project .projects .a-project:nth-child(3) div.box-color, .mcontainer #body #left .project .projects .a-project:nth-child(4) div.box-color, .mcontainer #body #left .project .projects .a-project:nth-child(5) div.box-color, .mcontainer #body #left .project .projects .a-project:nth-child(6) div.box-color {
             width: 100px;
             height: 94px !important; }
@@ -176,7 +176,7 @@ body {
         width: 122px; }
     .mcontainer #body #right p {
       font-family: 'Open Sans', sans-serif;
-      font-size: 12px;
+      font-size: 14px;
       font-weight: 300;
       width: 500px; }
     .mcontainer #body #right .users-icon {
@@ -198,8 +198,8 @@ body {
         .mcontainer #body #right .tasks .add-tasks h2,
         .mcontainer #body #right .upcoming .add-tasks h2 {
           font-family: "MyriadProBold";
-          font-size: 15px;
-          font-weight: 400; }
+          font-size: 24px;
+          font-weight: 600; }
         .mcontainer #body #right .tasks .add-tasks img,
         .mcontainer #body #right .upcoming .add-tasks img {
           cursor: pointer; }
